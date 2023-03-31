@@ -12,7 +12,7 @@ for Music Innovation. [website](https://www.microsoft.com/en-us/research/project
 - [Voc](https://github.com/PaulBatchelor/voc): Physical model of the human vocal tract, written
 in ANSI C using [literate programming](https://en.wikipedia.org/wiki/Literate_programming). Adapted from Neil Thapen's Pink Trombone. [website](https://paulbatchelor.github.io/proj/voc/).
 
-- [Orb](https://paulbatchelor.github.io/proj/orb/): A 2d musical puzzle game for Android featuring
+- [Orb](https://github.com/PaulBatchelor/Orb): A 2d musical puzzle game for Android featuring
 procedurally generated music and audio synthesis. [website](https://paulbatchelor.github.io/proj/orb/)
 
 - [sndkit](https://github.com/PaulBatchelor/sndkit): A collection of highly portable DSP algorithms,
