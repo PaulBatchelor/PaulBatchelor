@@ -5,7 +5,8 @@ Hello! My name is Paul. I am a software engineer. I teach computers how to sing.
 Notable Work:
 
 - [HandsFreeSoundJam](https://github.com/PaulBatchelor/HandsFreeSoundJam): create music
-using only your eyes. Part of the winnning submission to the 21st SXSW Innovation Award
+using only your eyes. Originally built with the Enable Group at Microsoft Research to explore
+new interfaces for musicians with ALS. Part of the winnning submission to the 21st SXSW Innovation Award
 for Music Innovation. [website](https://www.microsoft.com/en-us/research/project/microsoft-hands-free-sound-jam/).
 
 - [Voc](https://github.com/PaulBatchelor/voc): Physical model of the human vocal tract, written
