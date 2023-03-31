@@ -20,3 +20,5 @@ style. [website](https://paulbatchelor.github.io/sndkit)
 
 - [vocshape](https://github.com/PaulBatchelor/vocshape): A simple android app demonstrating
 the shaping capabilities of articulatory synthesis using realtime audio. [website](https://paulbatchelor.github.io/wiki/vocshape/)
+
+More projects can be found on [my project page](https://paulbatchelor.github.io/proj).
